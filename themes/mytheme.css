@@ -1,0 +1,55 @@
+/* @theme mytheme */
+
+@import "default";
+
+/* クラス名未指定全スライド共通設定 */
+section {
+  /* フォント指定 */
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans", Meiryo, sans-serif;
+
+  /* スライドのサイズを指定 デフォルトでは16:9 */
+  width: 100%;
+  height: 100%;
+}
+
+section header {
+    color: black;
+    font-size: 20pt;
+}
+
+/* topクラス*/
+section.top {
+    /* background-image: url('./img/kms-logo-large.png'); */
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-color: yellowgreen;
+}
+
+/* normalクラス*/
+section.normal{
+    background-color: #EEEEEE;
+
+    background-image: url('./img/kms-logo-large.png'), repeating-linear-gradient(0deg,
+    transparent,
+    transparent 80px,  /* 下からの背景色部分 */
+    white 0px,
+    white 640px);   /* 中間の指定色部分 */
+
+    background-repeat: no-repeat, repeat;
+    background-size: 18%;
+    background-position: right 2% bottom 18%;
+}
+
+/* darkクラス*/
+section.h1-shadow h1{
+    color: white;
+    /* background-color: black; */
+    filter: drop-shadow(10px 10px 5px #FFD9D7);
+    vertical-align: top;
+    line-height: 100%;
+}
+
+.slide_page {font-weight:bold;transform:scale(2);margin:12px;}
