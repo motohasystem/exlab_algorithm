@@ -5,7 +5,6 @@ header: "アルゴリズムってなんだろう？"
 footer: "CoderDojo神山"
 paginate: true
 size: 16:9
-# backgroundColor: #fff
 ---
 <!--
 headingDivider: 1
@@ -16,20 +15,20 @@ class: blue
 -->
 
 # アルゴリズムってなんだろう？
-### CoderDojo神山 本橋大輔
 
 <!-- ![bg right:30%](resource/trim_Sphinx_lost_in_the_meadow.png) -->
 <!-- ![bg fit 100% opacity:0.4](img/alg_boys_in_room.png) -->
-![bg right](img/alg_boys_in_room.png)
+![bg right:30%](img/alg_boys_in_room.png)
 
 ![w:200px](./img/01_sakura.png#center)
+#### CoderDojo神山 本橋大輔
 
 # 今日できるようになること
-### アルゴリズムを見つけられるようになる
-### アルゴリズムで考えられるようになる
-### アルゴリズムで迷路を作れるようになる
-### アルゴリズムで迷路の近道を見つけられる
-### （おまけ）アルゴリズムで遊んでみる
+#### アルゴリズムを見つけられるようになる
+#### アルゴリズムで考えられるようになる
+#### アルゴリズムで迷路を作れるようになる
+#### アルゴリズムで迷路の近道を見つけられる
+#### （おまけ）アルゴリズムで遊んでみる
 
 ![bg fit 100% opacity:0.2](img/alg_boys_in_room.png)
 
