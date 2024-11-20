@@ -5,9 +5,9 @@ set TITLE="アルゴリズム実験室2024 / 本橋大輔"
 set AUTHOR="本橋大輔"
 set DESCRIPTION="アルゴリズムってなんだろう？"
 set SRC_PATH=src
-set DST_PATH=dist
+set DST_PATH=docs
 
-set FILEBODY=slide
+set FILEBODY=index
 if exist %DST_PATH%\%FILEBODY%.png (
     echo 🪽 - skip: [%DST_PATH%\%FILEBODY%.png] は既に存在します
 ) else (
