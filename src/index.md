@@ -18,22 +18,20 @@ class: blue
 
 # アルゴリズムってなんだろう？
 
-<!-- ![bg right:30%](resource/trim_Sphinx_lost_in_the_meadow.png) -->
-<!-- ![bg fit 100% opacity:0.4](img/alg_boys_in_room.png) -->
 ![bg right:30%](img/alg_boys_in_room.png)
-
 ![w:200px](./img/01_sakura.png#center)
+
 #### CoderDojo神山 本橋大輔
 
 <script src="../themes/gamepad.js" alt="cursor: page flip /Y: whiteout / Z: blackout"></script>
 
 
 # 今日できるようになること
-#### アルゴリズムを見つけられるようになる
-#### アルゴリズムで考えられるようになる
-#### アルゴリズムで迷路を作れるようになる
-#### アルゴリズムで迷路の近道を見つけられる
-#### （おまけ）アルゴリズムで遊んでみる
+### アルゴリズムを**見つけられる**ようになる
+### アルゴリズムで**考えられる**ようになる
+### アルゴリズムで**迷路を作れる**ようになる
+### アルゴリズムで**迷路の近道を見つけられる**
+### （おまけ）アルゴリズムで遊んでみる
 
 ![bg fit 100% opacity:0.2](img/alg_boys_in_room.png)
 
@@ -45,7 +43,6 @@ class: blue
 - 時間割？
 - しりとり？
 - 目覚まし時計？
-- ゆうやけこやけ？
 - エアコンの温度設定？
 - アレクサ ? / Ok google ？
 
@@ -246,8 +243,8 @@ $$\frac{(1+N) \times N}{2}$$
 ![bg fit](img/2022-11-02-12-14-50.png)
 
 # どんな迷路ができましたか？
-## ほかのひとの迷路とくらべてみよう
-## もっと大きな迷路も作れるかな？
+## となりの迷路とくらべよう
+## もっと大きな迷路も作れそう？
 
 # アルゴリズムで近道を見つけよう
 - サイコロは使いません
@@ -330,10 +327,6 @@ https://www.tinkercad.com/codeblocks/edit?doc=7K1rVtzmFda
 
 # おまけ2
 
-![](img/2024-11-20-12-35-07.png)
-
-<!-- #
-
 ![bg fit](img/2023-02-22-10-54-30.png)
 
 #
@@ -342,5 +335,10 @@ https://www.tinkercad.com/codeblocks/edit?doc=7K1rVtzmFda
 
 #
 
-![bg fit](img/2023-02-21-16-22-14.png)
- -->
+<!-- ![bg fit](img/2023-02-21-16-22-14.png) -->
+
+![bg fit](img/2024-11-26-12-47-24.png)
+
+# おまけ3
+
+![](img/2024-11-20-12-35-07.png)
